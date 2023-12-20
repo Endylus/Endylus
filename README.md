@@ -1,4 +1,4 @@
-# About:<br>
+# About<br>
 :wave: Hi, I’m @endylus<br>🔭 I’m currently working on **React**<br>🌍 I am currently living in Sakarya, Turkey.
 
 <h3 align="left">Contact</h3>
