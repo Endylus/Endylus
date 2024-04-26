@@ -13,8 +13,6 @@
 <a href="https://nodejs.org" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/1653a979-ca22-4017-804e-6aaf6b8d031a" alt="Nodejs" height="30" width="40" /></a>
 <a href="https://www.mongodb.com" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/d75f853c-e56a-4eed-8bbe-f8f44740cd43" alt="Mongodb" height="30" width="40" /></a>
 <a href="https://www.postman.com" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/8a20a436-619a-49ea-a440-352c67c5c28f" alt="Postman" height="30" width="40" /></a>
-<a href="https://www.w3schools.com/css" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/848dbacf-14eb-4c58-a776-7ead008840d6" alt="Css" height="30" width="40" /></a>
-<a href="https://www.w3.org/html" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/796f2d84-375b-419c-8f25-370389382daf" alt="Html" height="30" width="40" /></a>
 <a href="https://github.com/puppeteer/puppeteer" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/3d5593df-3e05-4189-8381-d47f14d34b7e" alt="Puppeteer" height="30" width="40" /></a>
 </p>
 
