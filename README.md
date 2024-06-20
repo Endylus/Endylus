@@ -3,7 +3,7 @@
 
 <h3 align="left">Contact</h3>
 <p align="left">
-<a href="https://discord.gg/dctoken" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/63c9da29-3a23-4bcf-ad5d-a89ae7b31410" alt="Endylus" height="30" width="40" /></a>
+<a href="https://discord.gg/tokenverse" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/63c9da29-3a23-4bcf-ad5d-a89ae7b31410" alt="Endylus" height="30" width="40" /></a>
 <a href="https://instagram.com/endylus_9" target="blank"><img align="center" src="https://github.com/Endylus/Endylus/assets/122468378/cbbc6f6d-779b-43a2-9ddb-9d4866ee6adb" alt="Endylus" height="30" width="40" /></a>
 </p>
 
