@@ -1,5 +1,5 @@
 # About<br>
-:wave: Hi, I’m @endylus<br>🔭 I’m currently working on **React**<br>🌍 I am currently living in Sakarya, Turkey.
+:wave: Hi, I’m Endy<br>🔭 I’m currently working on **React**<br>🌍 I am currently living in Sakarya, Turkey.
 
 <h3 align="left">Contact</h3>
 <p align="left">
